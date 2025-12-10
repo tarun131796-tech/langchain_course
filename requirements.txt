@@ -1,0 +1,10 @@
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-core==0.2.33
+langchain-openai==0.1.22
+langchain-text-splitters==0.2.2
+python-dotenv==1.0.1
+chromadb==0.5.0
+beautifulsoup4==4.12.3
+tiktoken==0.7.0
+pytest==8.2.2
